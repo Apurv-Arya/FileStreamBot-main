@@ -44,6 +44,9 @@
    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 - Go to <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Apurv-Arya/FileStreamBot-main&branch=koyeb&name=FileStreamBot)
+
+
 <details>
   <summary><b>Deploy Locally :</b></summary>
 <br>
